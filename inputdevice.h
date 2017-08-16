@@ -36,4 +36,6 @@ protected:
 
 using namespace std;
 
+typedef int int32b;
+
 #endif
