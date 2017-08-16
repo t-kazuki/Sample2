@@ -35,5 +35,6 @@ protected:
 };
 
 typedef int int32b;
+typedef __int64 int64b;
 
 #endif
