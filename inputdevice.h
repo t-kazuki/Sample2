@@ -34,8 +34,6 @@ protected:
 	LPDIRECTINPUTDEVICE8  m_pDIDevice;		// Deviceオブジェクト(入力に必要)
 };
 
-using namespace std;
-
 typedef int int32b;
 
 #endif
